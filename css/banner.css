@@ -31,13 +31,13 @@
     font-weight: 700;
     font-size: 3.5em;
     line-height: 16px;
-    color: #1b0b0b;
+    color: #ffffff;
 }
 
 .banner__descricao {
     font-size: 1.4em;
     line-height: 16px;
-    color: #1b0b0b;
+    color: #dadada;
     font-weight: bold;
 }
 
@@ -95,6 +95,8 @@
         height: 30px;
         font-size: 1emm;
         margin-top: 5px;
+        border: none;
+        border-radius: 10%;
 
     }
 }

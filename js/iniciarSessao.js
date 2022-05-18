@@ -1,148 +1,153 @@
 export const todosProdutos = [
     {
         imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor com nome',
+        nome: 'Cadeira Gamer',
         preco: 'R$ 60,00',
-        descricao: 'Nome feito com bordado livre em bastidor de XXcm',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "personalizados",
         id: "1"
 
     },
     {
         imagem: 'imagem/carregador-iphone.jpg',
-        nome: ' Bastidor com calendário',
+        nome: ' Carregador De Iphone',
         preco: 'RS 85, 00',
-        descricao: 'Calendário feito com bordado livre ',
+        descricao: 'lorem ipsum lorem ipsum ',
         categoria: "personalizados",
         id: "2"
     },
     {
         imagem: 'imagem/carregador-portatil.jpg',
-        nome: 'Jogo de toalhas',
+        nome: 'Carregador Portátil',
         preco: 'R$ 100,00',
-        descricao: 'Jogo de toalhas com nome do casal bordado. Kit com 1 toalha de banho e 1 toalha de rosto',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "personalizados",
         id: "3"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Toalhinha infantil',
-        preco: 'R$ 25,00',
-        descricao: 'Toalha infantil bordada com ponto cruz',
+        imagem: 'imagem/carregador-notebook-positivo.jpg',
+        nome: 'Carregador Notebook Positivo',
+        preco: 'R$ 180,00',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "personalizados",
         id: "4"
     },
     {
-        imagem: 'imagem/aliancas.jpeg',
-        nome: 'Bastidor Data especial',
-        preco: 'R$ 80,00',
-        descricao: 'Bastidor com data especial bordada em bordado livre com nome',
+        imagem: 'imagem/carregador-samsung.jpg',
+        nome: 'Carregador Samsung',
+        preco: 'R$ 20,00',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "personalizados",
         id: "5"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Jogo de toalhas',
-        preco: 'R$ 100,00',
-        descricao: 'Jogo de toalhas com nome do casal bordado. Kit com 2 toalhas de banho e 1 toalha de rosto',
+        imagem: 'imagem/carregador-sem-fio.jpg',
+        nome: 'Carregador Sem Fio',
+        preco: 'R$ 250,00',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "personalizados",
         id: "6"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bolsa',
+        imagem: 'imagem/carregador-turbo.jpg',
+        nome: 'Carregador Turbo',
         preco: 'R$ 100,00',
-        descricao: 'Bolsa com bordado e pintura',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "7"
     },
     {
         imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Colar',
+        nome: 'Cadeira gamer',
         preco: 'R$ 50,00',
-        descricao: 'Colar com pingente bordado',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "8"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Tênnis',
+        imagem: 'imagem/fonde-i12.jpg',
+        nome: 'Fone Bluetooth',
         preco: 'R$ 70,00',
-        descricao: 'Bordado em tênnis',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "9"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bolsa Porta moedas',
-        preco: 'R$ 80,00',
-        descricao: 'Bolsa pequena bordada',
+        imagem: 'imagem/fonedeOuvido-multilaser.jpg',
+        nome: 'Fone Multilaser',
+        preco: 'R$ 50,00',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "10"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Pano de prato',
+        imagem: 'imagem/fone-iphone.jpg',
+        nome: 'Fone Iphone',
         preco: 'R$ 25,00',
-        descricao: 'Panos de prato bordadoem em ponto Cruz',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "11"
     },
     {
         imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Quadro Flores',
+        nome: 'cadeira gamer',
         preco: 'R$50,00',
-        descricao: 'Quadro com flores bordadas em brodado livre',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
         id: "12"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor com cactos',
+        imagem: 'imagem/fone-samsung.jpg',
+        nome: 'fone samsung',
         preco: 'R$ 70,00',
-        descricao: 'Bastidor com cactos bordados',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
         id: "13"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Laço e gola',
+        imagem: 'imagem/fone-xiaomi.jpg',
+        nome: 'Fone bluetooth xiaomi',
         preco: 'R$ 70,00',
-        descricao: 'Laço e gola para bebês bordado',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
         id: "14"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor com frase',
+        imagem: 'imagem/mouse-gamer.jpg',
+        nome: 'Mouse led',
         preco: 'R$ 70,00',
-        descricao: 'Bastidor com frase: Deixa o sol entrar',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
         id: "15"
     },
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor coração',
+        imagem: 'imagem/mouse-pad-gamer.jpg',
+        nome: 'Mouse Pad',
         preco: 'R$ 70,00',
-        descricao: 'Bastidor com coração',
+        descricao: 'Blorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
         id: "16"
     },
+
     {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor com frase',
+        imagem: 'imagem/notebook-dell.jpg',
+        nome: 'Carregador Dell',
         preco: 'R$ 70,00',
-        descricao: 'Bastidor com frase: A felicidade está nas coisas simples',
-        categoria: "Pronta Entrega",
-        id: "17"
-    },
-    {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Bastidor com frase',
-        preco: 'R$ 70,00',
-        descricao: 'Bastidor com frase: Let the good times begin',
+        descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
         id: "18"
-    }
+    },
+
+
+    {
+        imagem: 'imagem/teclado-gamer.jpg',
+        nome: 'Teclado led',
+        preco: 'R$ 70,00',
+        descricao: 'lorem ipsum lorem ipsum',
+        categoria: "Pronta Entrega",
+        id: "18"
+
+
+    },
 
 ]
