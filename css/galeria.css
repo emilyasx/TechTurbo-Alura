@@ -23,7 +23,7 @@
     align-items: flex-start;
     padding: 0px;
     justify-content: center;
-
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
     position: static;
     width: 176px;
     height: 252px;
@@ -50,7 +50,7 @@
     line-height: 19px;
     font-style: normal;
     font-weight: 700;
-    color: #9e5588;
+    color: #68a0f5;
     width: 97px;
 
     height: 24px;
@@ -60,10 +60,6 @@
 
 }
 
-.galeria__verTudo:after {
-    content: url('../imagem/Vector.png');
-
-}
 
 .galeria__imagem {
     width: 176px;
@@ -93,7 +89,7 @@
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
-    color: #9e5588;
+    color: #aac1f3;
     text-decoration: none;
 }
 
@@ -106,7 +102,7 @@
 
     .galeria__titulo {
         border: 0;
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .galeria__produtos {
@@ -124,5 +120,12 @@
 
     .galeria__verProduto {
         font-size: 14px;
+    }
+
+
+    .galeria__secao {
+
+        height: 90px;
+
     }
 }

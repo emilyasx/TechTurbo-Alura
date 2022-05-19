@@ -14,6 +14,24 @@ input:focus {
     outline: 0;
 }
 
+.menu__buscar1 {
+    background-image: url(../imagem/Vector.png);
+    background-repeat: no-repeat;
+    border: transparent;
+    width: 35%;
+    height: 21px;
+    left: 215px;
+    top: 77px;
+    padding: 8px 16px;
+    background-color: #d2cef1;
+    position: absolute;
+    border-radius: 20px;
+    font-size: .9rem;
+    background-position: right;
+    background-position-x: 90%;
+
+}
+
 a {
     text-decoration: none;
 }
@@ -24,4 +42,12 @@ a {
         width: min-content;
 
     }
+
+    .menu__buscar1 {
+        width: 50%;
+        height: 10px;
+        top: 25px;
+        left: 188px;
+    }
+
 }

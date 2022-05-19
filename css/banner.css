@@ -47,13 +47,14 @@
     height: 61px;
     left: 0px;
     top: 119px;
-
+    border: none;
     background: #c4cdf5;
     font-weight: bold;
     font-size: 1em;
     line-height: 1em;
     color: #2d00ce;
-    border-color: #1c0083;
+    border-color: none;
+    border-radius: 15%;
 }
 
 .Botao2:hover {
@@ -93,7 +94,7 @@
 
     .Botao2 {
         height: 30px;
-        font-size: 1emm;
+        font-size: 15px;
         margin-top: 5px;
         border: none;
         border-radius: 10%;

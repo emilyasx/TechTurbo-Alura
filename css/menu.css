@@ -61,6 +61,22 @@
 
 }
 
+.Botao3 {
+    border: none;
+    position: absolute;
+    top: 10px;
+    width: 50px;
+    border-radius: 50%;
+    height: 38px;
+    left: 07px;
+    text-transform: uppercase;
+}
+
+.Botao3:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
 .imagem_login {
     width: 150px;
     height: 150px;
@@ -132,8 +148,9 @@
 
     .menu__logo {
         display: flex;
-        width: 133%;
-        left: 16px;
+        width: 100%;
+        height: 58px;
+        left: 41px;
         position: relative;
         top: 1px;
         padding: 0 0;
@@ -142,7 +159,11 @@
     }
 
     .menu__buscar {
-        display: none;
+        width: 35%;
+        height: 10px;
+        top: 25px;
+        left: 188px;
+        position: absolute;
     }
 
     .imagem_login {
@@ -166,8 +187,14 @@
     .redes-sociais {
         width: 61%;
         float: left;
-        left: -26px;
-        top: -13px;
+        left: -11px;
+        top: -5px;
         position: relative;
+    }
+
+    .Botao3 {
+        top: 10px;
+        width: 50px;
+        height: 38px;
     }
 }

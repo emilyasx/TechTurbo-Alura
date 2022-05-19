@@ -53,40 +53,33 @@ export const todosProdutos = [
         nome: 'Carregador Turbo',
         preco: 'R$ 100,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "diversos",
+        categoria: "personalizados",
         id: "7"
     },
-    {
-        imagem: 'imagem/cadeira-gamer.jpg',
-        nome: 'Cadeira gamer',
-        preco: 'R$ 50,00',
-        descricao: 'lorem ipsum lorem ipsum',
-        categoria: "diversos",
-        id: "8"
-    },
+
     {
         imagem: 'imagem/fonde-i12.jpg',
         nome: 'Fone Bluetooth',
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "diversos",
-        id: "9"
+        categoria: "Pronta Entrega",
+        id: "8"
     },
     {
         imagem: 'imagem/fonedeOuvido-multilaser.jpg',
         nome: 'Fone Multilaser',
         preco: 'R$ 50,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "diversos",
-        id: "10"
+        categoria: "Pronta Entrega",
+        id: "9"
     },
     {
         imagem: 'imagem/fone-iphone.jpg',
         nome: 'Fone Iphone',
         preco: 'R$ 25,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "diversos",
-        id: "11"
+        categoria: "Pronta Entrega",
+        id: "10"
     },
     {
         imagem: 'imagem/cadeira-gamer.jpg',
@@ -94,7 +87,7 @@ export const todosProdutos = [
         preco: 'R$50,00',
         descricao: 'lorem ipsum lorem ipsum',
         categoria: "diversos",
-        id: "12"
+        id: "11"
     },
     {
         imagem: 'imagem/fone-samsung.jpg',
@@ -102,7 +95,7 @@ export const todosProdutos = [
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
-        id: "13"
+        id: "12"
     },
     {
         imagem: 'imagem/fone-xiaomi.jpg',
@@ -110,23 +103,23 @@ export const todosProdutos = [
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
         categoria: "Pronta Entrega",
-        id: "14"
+        id: "13"
     },
     {
         imagem: 'imagem/mouse-gamer.jpg',
         nome: 'Mouse led',
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "Pronta Entrega",
-        id: "15"
+        categoria: "diversos",
+        id: "14"
     },
     {
         imagem: 'imagem/mouse-pad-gamer.jpg',
         nome: 'Mouse Pad',
         preco: 'R$ 70,00',
         descricao: 'Blorem ipsum lorem ipsum',
-        categoria: "Pronta Entrega",
-        id: "16"
+        categoria: "diversos",
+        id: "15"
     },
 
     {
@@ -134,8 +127,8 @@ export const todosProdutos = [
         nome: 'Carregador Dell',
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "Pronta Entrega",
-        id: "18"
+        categoria: "personalizados",
+        id: "16"
     },
 
 
@@ -144,8 +137,8 @@ export const todosProdutos = [
         nome: 'Teclado led',
         preco: 'R$ 70,00',
         descricao: 'lorem ipsum lorem ipsum',
-        categoria: "Pronta Entrega",
-        id: "18"
+        categoria: "diversos",
+        id: "17"
 
 
     },

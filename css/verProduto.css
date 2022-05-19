@@ -2,8 +2,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #E5E5E5;
+    background-color: #bad2f7;
 }
+
 
 .produto-imagem {
     width: 460px;
@@ -46,4 +47,6 @@
         width: 90%;
         padding: 0;
     }
+
+
 }
